@@ -1,7 +1,7 @@
 # Multiple-Sequence-Alignment-
 
-## Input:  
+### Input:  
 k protein amino acid sequences (k= 3 … 5)
 
-## Goal: 
+### Goal: 
 Perform multiple sequence alignment for given k protein sequences.
